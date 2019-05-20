@@ -11,3 +11,5 @@ JDK：jdk8
 
 创建数据表后，自行添加用户，用于登录测试。
 ![图片404](https://github.com/Snykta/GalaCMS/blob/master/WebContent/images/Snipaste_2019-05-20_11-19-43.png)
+
+![图片404](https://github.com/Snykta/GalaCMS/blob/master/WebContent/images/ne_nwes.png)
