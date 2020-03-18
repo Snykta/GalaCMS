@@ -1,7 +1,7 @@
 # 新闻管理CMS系统：
 一个原生JavaWeb项目
 
-架构：mysql+jsp+servlet
+项目架构：mysql+jsp+servlet
 
 JDK：jdk8
 
